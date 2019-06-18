@@ -20,7 +20,7 @@ player is facing (you can center-on the ball by looking up).
 
 ## Requirements
 - soccer 0.1.0 for MT/MTG 0.4.10+ (may work on older versions of MT/MTG).
-- soccer 0.2.0 for MT/MTG 5.0.0+.
+- soccer 0.1.1 for MT/MTG 5.0.0+.
 
 ## Special thanks
 - 12Me21: Ideas about the crafting recipe.
