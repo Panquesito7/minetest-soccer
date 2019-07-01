@@ -19,7 +19,7 @@ player is facing (you can center-on the ball by looking up).
 - wool (included in minetest_game)
 
 ## Requirements
-- soccer 0.1.0 for MT/MTG 0.4.10+ (may work on older versions of MT/MTG).
+- soccer 0.1.0 for MT/MTG 0.4.8+ (may work on older versions of MT/MTG).
 - soccer 0.1.1 for MT/MTG 5.0.0+.
 
 ## Special thanks
