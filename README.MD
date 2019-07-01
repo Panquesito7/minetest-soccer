@@ -42,4 +42,4 @@ place it in ..minetest/mods/
     the folder in ..worldmods/ in your world directory.
 
 For further information or help, see:
-https://wiki.minetest.com/wiki/Installing_Mods
+https://wiki.minetest.net/Installing_Mods
